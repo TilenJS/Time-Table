@@ -1,0 +1,32 @@
+body {
+    font: 16px "Open Sans", Helvetica, Arial, sans-serif;
+    padding: 1%;
+}
+
+h1{
+    color: rgb(59, 59, 59);
+}
+
+table {
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+}
+
+thead {
+    background-color: rgb(211, 211, 211);
+}
+
+tr, td {
+    border: 1px solid rgb(0, 0, 0);
+    padding:10px 20px;
+  }
+
+body {
+    font: 16px "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+}
